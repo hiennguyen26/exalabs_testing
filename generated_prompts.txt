@@ -1,0 +1,22 @@
+Topic: Asset Management
+Generated Prompt: Asset Management authoritative sources cybersecurity frameworks standards financial institutions regulatory bodies industry leaders risk management compliance
+--------------------------------------------------------------------------------
+
+Topic: AI
+Generated Prompt: Create a search query that focuses on AI in the context of cybersecurity and financial services. The query should specifically look for authoritative sources and regulatory guidance on AI application within financial institutions, emphasizing the intersection of AI technology with cybersecurity frameworks and standards. It should prioritize content from recognized regulatory bodies such as the Financial Stability Board (FSB), the European Banking Authority (EBA), or the Office of the Comptroller of the Currency (OCC), as well as industry leaders in AI like IBM, Microsoft, or Google. Additionally, the search should address how AI intersects with risk management and compliance requirements within the financial services sector.
+--------------------------------------------------------------------------------
+
+Topic: Identity
+Generated Prompt: "Identity Protection in Financial Services" site:gov OR site:edu OR site:org
+
+Focus on finding authoritative sources and regulatory guidance around identity protection specific to financial services institutions. Emphasize content that highlights cybersecurity frameworks such as NIST, ISO 27001, or COBIT standards. Prioritize materials from recognized regulatory bodies like the FFIEC, OCC, or FTC, as well as industry leaders like the FSSCC or ISACA. Specifically, look for resources that discuss managing identity-related risks, compliance requirements, and the implementation of robust identity verification frameworks in the context of financial services.
+--------------------------------------------------------------------------------
+
+Topic: Marketing
+Generated Prompt: Search query for marketing in the context of cybersecurity and financial services. Need to find authoritative sources and regulatory guidance on cybersecurity frameworks and standards, specifically for financial institutions, as they relate to marketing. Seek content from regulatory bodies like SEC, FINRA, OCC, and industry leaders. Focus on risk management and compliance requirements intersecting marketing practices in financial services.
+--------------------------------------------------------------------------------
+
+Topic: Privledge Access Management
+Generated Prompt: "Privilege Access Management" AND ("cybersecurity frameworks" OR "cybersecurity standards") AND "financial institutions" AND ("authoritative sources" OR "regulatory guidance") AND ("regulatory bodies" OR "industry leaders") AND ("risk management" OR "compliance requirements")
+--------------------------------------------------------------------------------
+

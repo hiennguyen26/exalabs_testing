@@ -1,0 +1,122 @@
+[
+  {
+    "title": "The rise of artificial intelligence: benefits and risks for financial stability",
+    "url": "https://www.ecb.europa.eu/press/financial-stability-publications/fsr/special/html/ecb.fsrart202405_02~58c3ce5246.en.html",
+    "id": "https://www.ecb.europa.eu/press/financial-stability-publications/fsr/special/html/ecb.fsrart202405_02~58c3ce5246.en.html",
+    "score": 0.1873539388179779,
+    "published_date": "2024-05-15T00:00:00.000Z",
+    "author": "Leitner; Georg; Singh; Jaspal; Van Der Kraaij; Anton; Zs\u00e1mboki; Bal\u00e1zs; European Central Bank",
+    "highlights": [
+      "At the same time, there could also be AI risks for financial institutions and, potentially, the wider financial system. This special feature provides a conceptual framework for assessing the systemic implications of AI for the financial system. To this end, the feature first investigates how the benefits and risks for individual financial institutions using AI are related to the technological aspects of AI. Next, it assesses how these benefits and risks at the firm level could unfold at the macro level, potentially leading to implications for financial stability. What is AI?"
+    ],
+    "summary": "This May 2024 ECB Financial Stability Review article discusses the burgeoning impact of artificial intelligence (AI), particularly generative AI, on the financial system.  While AI offers potential benefits for increased productivity and economic value (estimated at USD 2.6-4.4 trillion annually), it also presents risks.  These risks include increased operational and cyber risks, greater market concentration, \"too-big-to-fail\" externalities, and potential for herding behavior and market correlation if AI adoption becomes widespread and suppliers are concentrated. The review notes the sharp rise in public interest and related jobs, innovations, and patents since late 2022, with Europe currently leading in AI employment.  The authors suggest that if concerns arising from AI adoption cannot be addressed by existing regulations, targeted initiatives may be necessary.  A PDF link to the full report is available [https://www.ecb.europa.eu/press/financial-stability-publications/fsr/html/ecb.fsr202405~7f212449c8.en.html](https://www.ecb.europa.eu/press/financial-stability-publications/fsr/html/ecb.fsr202405~7f212449c8.en.html).\n"
+  },
+  {
+    "title": "U.S. Department of the Treasury Releases Report on Managing Artificial Intelligence-Specific Cybersecurity Risks in the Financial Sector",
+    "url": "https://home.treasury.gov/news/press-releases/jy2212",
+    "id": "https://home.treasury.gov/news/press-releases/jy2212",
+    "score": 0.18273819983005524,
+    "published_date": "2024-03-27T00:00:00.000Z",
+    "author": "",
+    "highlights": [
+      "As part of Treasury\u2019s research for this report, Treasury conducted in-depth interviews with 42 financial services sector and technology related companies. Financial firms of all sizes, from global systemically important financial institutions to local banks and credit unions, provided input on how AI is used within their organizations. Additional stakeholders included major technology companies and data providers, financial sector trade associations, cybersecurity and anti-fraud service providers, and regulatory agencies. Treasury\u2019s report provides an extensive overview of current AI use cases for cybersecurity and fraud prevention, as well as best practices and recommendations for AI use and adoption. The report does not impose any requirements and does not endorse or discourage the use of AI within the financial sector."
+    ],
+    "summary": "The U.S. Department of the Treasury released a report on Managing Artificial Intelligence-Specific Cybersecurity Risks in the Financial Services Sector (March 27, 2024).  The report, mandated by Presidential Executive Order 14110, highlights the opportunities and challenges AI presents to financial sector security and resilience.  Key concerns include a capability gap between large and small institutions in developing AI systems, a lack of fraud data sharing hindering effective fraud prevention, and regulatory fragmentation across various levels of government.  The report suggests several next steps, including addressing these capability and data gaps, improving regulatory coordination, expanding the NIST AI Risk Management Framework for the financial sector, and developing best practices for data supply chain mapping.  You can access the full report here: [https://home.treasury.gov/system/files/136/Managing-Artificial-Intelligence-Specific-Cybersecurity-Risks-In-The-Financial-Services-Sector.pdf](https://home.treasury.gov/system/files/136/Managing-Artificial-Intelligence-Specific-Cybersecurity-Risks-In-The-Financial-Services-Sector.pdf)\n"
+  },
+  {
+    "title": "Call for papers on Artificial Intelligence in Finance: 2024 Annual Meeting of the Central Bank Research  Association (CEBRA)",
+    "url": "https://www.fsb.org/2024/01/call-for-papers-on-artificial-intelligence-in-finance-2024-annual-meeting-of-the-central-bank-research-association-cebra/",
+    "id": "https://www.fsb.org/2024/01/call-for-papers-on-artificial-intelligence-in-finance-2024-annual-meeting-of-the-central-bank-research-association-cebra/",
+    "score": 0.1651628315448761,
+    "published_date": "2024-01-25T00:00:00.000Z",
+    "author": "",
+    "highlights": [
+      "Of particular interest are papers that examine the extent to which, and modalities through which, the broader use of AI may have an effect on financial stability, including potential mitigants available to address associated risks. Papers should be submitted on the CEBRA website by 10 March 2024."
+    ],
+    "summary": "The FSB is accepting papers for a CEBRA session on AI in finance and its implications for financial stability.  The session, taking place August 28-30, 2024 in Frankfurt, will explore how AI impacts financial institutions, from improved efficiency to potential risks like market concentration and unforeseen interconnectedness.  Of particular interest are papers analyzing AI's effect on financial stability, including potential risk mitigation strategies.  Submissions, focusing on AI use cases and their benefits/risks, are due March 10, 2024, via the CEBRA website: [https://cebra-events.org/call-for-papers](https://cebra-events.org/call-for-papers).  No PDF link is provided on the source webpage.\n"
+  },
+  {
+    "title": "AI-Relevant Regulatory Precedents: A Systematic Search Across All Federal Agencies \u2014 Institute for AI Policy and Strategy",
+    "url": "https://www.iaps.ai/research/ai-relevant-regulatory-precedent",
+    "id": "https://www.iaps.ai/research/ai-relevant-regulatory-precedent",
+    "score": 0.16477879881858826,
+    "published_date": "2024-04-03T00:00:00.000Z",
+    "author": "Bill Anderson-Samways",
+    "highlights": [
+      "Relevant case studies that we identify include (among others): the Environmental Protection Agency (EPA); various financial regulators, for example, the Federal Reserve System (\u201cthe Fed\u201d) and the Securities and Exchange Commission (SEC); the Office of Commercial Space Transportation (FAA / AST); and regulatory functions within the Department of Energy (DOE) and Department of Defense (DOD). We identified relevant agencies using quantitative measures of five variables that seem relevant to AI regulation: (1) intensiveness; (2) expertise; (3) enforcement against powerful companies; (4) use of risk-assessments; and (5) focus on / analysis of uncertain phenomena. For variables 1, 4, and 5, we also gathered results at the level of individual regulations. Note that the intent of this piece is to suggest case studies that researchers or policymakers could examine further. These findings should not be interpreted as endorsements of these regulatory approaches in the context of advanced AI nor as definitive rankings of cases on the five variables."
+    ],
+    "summary": "This Institute for AI Policy and Strategy research paper systematically identifies potential US federal agency case studies relevant to advanced AI regulation.  The researchers used quantitative measures (intensiveness, expertise, enforcement against powerful companies, risk assessments, and focus on uncertain phenomena) to select agencies like the EPA, Federal Reserve, SEC, FAA/AST, DOE, and DOD.  The paper suggests these agencies as potential case studies for further research and policymaking, not as endorsements of their regulatory approaches.  A PDF link is not available in the provided text.\n"
+  },
+  {
+    "title": "AI in Payment and Financial Services 2024 - Research and Markets",
+    "url": "https://www.researchandmarkets.com/reports/5931131/ai-in-payment-financial-services",
+    "id": "https://www.researchandmarkets.com/reports/5931131/ai-in-payment-financial-services",
+    "score": 0.1597830206155777,
+    "published_date": "2024-02-01T00:00:00.000Z",
+    "author": "Research; Markets ltd",
+    "highlights": [
+      "Key Takeaways Key Takeaways of AI in Payment and Financial Services 2024 2. Management Summary 3. Overview of AI Use in Payments 3.1. Global Overview of AI Use in Payments, December 2023 Overview of AI and Machine Learning in Payments, December 2023 Generative AI Market Size, in USD billion, 2023e &amp; 2027f Value of AI in Payments, in USD billion, 2023 &amp; 2031f Productivity Gains Through Generative AI, in % of Respondents, 2023e 4. AI Use By Banks and Financial Companies 4.1."
+    ],
+    "summary": "This Research and Markets report (https://www.researchandmarkets.com/reports/5931131) forecasts the value of AI in payments to exceed EUR 55 billion by 2031.  The report highlights AI's transformative impact on payment processing, exceeding its role in remittances.  Over 90% of global payment professionals use AI/ML for fraud detection, although transparency concerns remain.  GenAI and LLMs are reshaping embedded finance (platforms like Square, Shopify, Amazon) and B2C e-commerce, enhancing customer experience and driving purchasing decisions through features like biometric authentication and AI-powered chatbots.  The report includes detailed data on bank AI investments (comparing 2024 and 2030 figures), GenAI market size projections (2027), and the use of AI in RegTech for anti-money laundering.  Specific data points are available within the report's tables of contents, covering global AI usage in payments, bank AI spending, and AI applications in embedded finance and B2C e-commerce.  Unfortunately, a direct PDF link is not provided within the text supplied.\n"
+  },
+  {
+    "title": "Responsible AI Playbook for Investors 2024",
+    "url": "https://www.weforum.org/publications/responsible-ai-playbook-for-investors/",
+    "id": "https://www.weforum.org/publications/responsible-ai-playbook-for-investors/",
+    "score": 0.15942272543907166,
+    "published_date": "2024-06-21T00:00:00.000Z",
+    "author": "",
+    "highlights": [
+      "Based on extensive research and over 100 stakeholder interviews, the paper encourages investors to engage with corporate boards, investment partners and the broader ecosystem to promote RAI adoption. It highlights the necessity of strong governance frameworks and clear RAI standards designed to ensure AI applications are honest, helpful and harmless. It underscores how RAI can mitigate risks and meet regulatory requirements while driving growth through enhanced customer trust and brand reputation. Finally, it offers a playbook to help investors balance immediate efforts to harness AI's potential with a longer-term prudent approach to foundational concerns."
+    ],
+    "summary": "This World Economic Forum white paper (PDF link not provided in text) explores responsible AI (RAI) for investors in 2024.  It emphasizes the crucial role investors play in promoting RAI adoption, advocating for strong governance and clear standards to ensure AI applications are honest, helpful, and harmless.  The paper, based on extensive research and interviews, offers a playbook to help investors balance immediate opportunities with long-term responsible AI development, mitigating risks and meeting regulatory requirements while driving growth.\n"
+  },
+  {
+    "title": "Chair McHenry, Ranking Member Waters, Representatives Hill and Lynch Release Bipartisan AI Working Group Staff Report",
+    "url": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=409324",
+    "id": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=409324",
+    "score": 0.1589808464050293,
+    "published_date": "2024-07-18T00:00:00.000Z",
+    "author": "",
+    "highlights": [
+      ""
+    ],
+    "summary": "Summary:\n\nUnfortunately, the provided text from the URL  `https://financialservices.house.gov/news/documents` is empty (`<div><div><td></td></div></div>`).  Therefore, I cannot provide a summary or a PDF link related to the House Financial Services Committee's Bipartisan AI Working Group report.  To find the PDF, I recommend visiting the House Financial Services Committee website directly and searching for \"Bipartisan AI Working Group Staff Report.\"\n"
+  },
+  {
+    "title": "\u201cAI, Finance, Movies, and the Law\u201d Prepared Remarks before the Yale Law School",
+    "url": "https://www.sec.gov/news/speech/gensler-ai-021324",
+    "id": "https://www.sec.gov/news/speech/gensler-ai-021324",
+    "score": 0.15623116493225098,
+    "published_date": "2024-02-13T00:00:00.000Z",
+    "author": null,
+    "highlights": [
+      "It is already being used for call centers, account openings, compliance programs, trading algorithms, sentiment analysis, and more. It has fueled a rapid change in the field of robo-advisers and brokerage apps. AI also raises a host of issues that aren\u2019t new but are accentuated by it. First, AI models\u2019 decisions and outcomes are often unexplainable. Second, AI also may make biased decisions because the outcomes of its algorithms may be based on data reflecting historical biases."
+    ],
+    "summary": "This speech by SEC Chair Gary Gensler, delivered at Yale Law School, discusses the intersection of AI, finance, and the law.  Gensler uses the movie \"Her\" as an analogy to explore the complexities of AI relationships and their implications. He highlights the widespread adoption of AI across various sectors, including finance, and its use in legal research and drafting.  The speech touches on the SEC's role in overseeing the $110 trillion capital markets and its three-part mission. While acknowledging the opportunities AI presents for financial inclusion and efficiency, Gensler also raises concerns about challenges posed by AI's decision-making processes.  No PDF link is available within the provided text.\n"
+  },
+  {
+    "title": "Keynote Remarks by Commissioner Kristin N. Johnson at NYU AI Convening: The Potential, Promise, and Limitations of Integrating AI in Financial Markets",
+    "url": "https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson12",
+    "id": "https://www.cftc.gov/PressRoom/SpeechesTestimony/opajohnson12",
+    "score": 0.15558890998363495,
+    "published_date": "2024-04-09T00:00:00.000Z",
+    "author": "",
+    "highlights": [
+      "While the use of AI in financial markets may hold the potential for substantial benefits, such use may also introduce unprecedented risks concerning market integrity, customer protection, governance, data privacy, bias, and cyber threats. The CFTC is exploring answers to these and many other questions. I have advocated for interventions that foster responsible use of AI in financial markets, and will continue to do so. Greater Transparency and Visibility Echoing the MRAC Subcommittee, I have encouraged greater visibility and transparency regarding our registrants\u2019 use of AI by expanding our annual systems examination questionnaire to incorporate questions that directly inquire about the adoption of AI and related risks. Principles-Based Framework Additionally, I have proposed the development of a principles-based framework."
+    ],
+    "summary": "Commissioner Kristin N. Johnson's keynote remarks at the NYU AI Convening focused on the integration of AI in financial markets.  A key takeaway is the Commodity Futures Trading Commission's (CFTC) Market Risk Advisory Committee (MRAC) adopting a working plan to advance CFTC oversight of AI in markets.  This plan includes a survey on AI usage by CFTC registrants and potential new guidance, advisories, or rulemaking to address risks like model bias, cybersecurity, and data control.  The speech highlights Johnson's extensive background researching AI and financial markets,  mentioning her past academic work and involvement in convenings on AI governance.  Unfortunately, a PDF link to the speech is not provided in the text.\n"
+  },
+  {
+    "title": "Risk Sources and Risk Management Measures in Support of Standards for General-Purpose AI Systems",
+    "url": "https://arxiv.org/abs/2410.23472",
+    "id": "https://arxiv.org/abs/2410.23472",
+    "score": 0.1547432243824005,
+    "published_date": "2024-10-30T00:00:00.000Z",
+    "author": "Gipi\u0161kis; Rokas; Joaquin; Ayrton San; Chin; Ze Shen; Regenfu\u00df; Adrian; Gil; Ariel; Holtman; Koen",
+    "highlights": [
+      "For this reason, the catalog is released under a public domain license for ease of direct use by stakeholders in AI governance and standards. Submission history From: Rokas Gipi\u0161kis [ view email ] [v1] Wed, 30 Oct 2024 21:32:56 UTC (455 KB)"
+    ],
+    "summary": "This arXiv preprint (PDF: [https://arxiv.org/pdf/2410.23472](https://arxiv.org/pdf/2410.23472)) catalogs risk sources and management measures for general-purpose AI (GPAI) systems.  It covers technical, operational, and societal risks across the AI lifecycle (development, training, deployment), surveying both established and experimental mitigation strategies.  The authors aim to aid AI providers, standard experts, researchers, policymakers, and regulators in identifying and mitigating systemic GPAI risks.  The catalog is publicly available to facilitate its use in AI governance and standards development.\n"
+  }
+]

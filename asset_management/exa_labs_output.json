@@ -1,0 +1,110 @@
+[
+  {
+    "title": "NIST Offers Guidance on Measuring and Improving Your Company\u2019s Cybersecurity Program",
+    "url": "https://www.nist.gov/news-events/news/2024/01/nist-offers-guidance-measuring-and-improving-your-companys-cybersecurity",
+    "id": "https://www.nist.gov/news-events/news/2024/01/nist-offers-guidance-measuring-and-improving-your-companys-cybersecurity",
+    "score": 0.16614428162574768,
+    "published_date": "2024-01-17T00:00:00.000Z",
+    "author": "Chad Boutin",
+    "highlights": [
+      "Credit: PopTika/Shutterstock Imagine you\u2019re the new head of cybersecurity at your company. Your team has made a solid start at mounting defenses to ward off hackers and ransomware attacks. As cybersecurity threats continue to mount, you need to show improvements over time to your CEO and customers. How do you measure your progress and present it using meaningful, numerical details? You might want a road map for creating a practical information security measurement program, and you\u2019ll find it in newly revised draft guidance from the National Institute of Standards and Technology (NIST)."
+    ],
+    "summary": "NIST has released a revised draft of Special Publication (SP) 800-55 Revision 2: *Measurement Guide for Information Security*, a two-volume guide to help organizations measure and improve their cybersecurity programs.  The guide emphasizes moving from qualitative risk descriptions (e.g., high, medium, low) to quantitative data.  Volume 1 is for information security specialists, focusing on selecting and evaluating security measures. Volume 2 targets C-suite executives, showing how to develop an information security measurement program.  The publication is designed to work with frameworks like NIST's Cybersecurity Framework and Risk Management Framework.  While no direct PDF link is provided in the text, the article links to the individual volumes: [Volume 1](https://csrc.nist.gov/pubs/sp/800/55/v1/ipd) and [Volume 2](https://csrc.nist.gov/pubs/sp/800/55/v2/ipd).  Public comment is open until March 18, 2024.\n"
+  },
+  {
+    "title": "U.S. Department of the Treasury Releases Report on Managing Artificial Intelligence-Specific Cybersecurity Risks in the Financial Sector",
+    "url": "https://home.treasury.gov/news/press-releases/jy2212",
+    "id": "https://home.treasury.gov/news/press-releases/jy2212",
+    "score": 0.154738649725914,
+    "published_date": "2024-03-27T00:00:00.000Z",
+    "author": "",
+    "highlights": [
+      "An emerging set of international, industry, and national digital identity technical standards is underway. International coordination. The path forward for regulation of AI in financial services remains an open question internationally. Treasury will continue to engage with foreign counterparts on the risks and benefits of AI in financial services. As part of Treasury\u2019s research for this report, Treasury conducted in-depth interviews with 42 financial services sector and technology related companies."
+    ],
+    "summary": "The U.S. Department of the Treasury released a report on Managing Artificial Intelligence-Specific Cybersecurity Risks in the Financial Services Sector (March 27, 2024).  The report, mandated by Executive Order 14110, highlights the opportunities and challenges AI presents to financial security.  Key concerns include a growing capability gap between large and small institutions in developing AI systems, insufficient data sharing for fraud prevention, and regulatory fragmentation.  The report suggests expanding the NIST AI Risk Management Framework, developing best practices for data supply chain mapping, and creating \"nutrition labels\" for data clarity.  You can find the full report here: [https://home.treasury.gov/system/files/136/Managing-Artificial-Intelligence-Specific-Cybersecurity-Risks-In-The-Financial-Services-Sector.pdf](https://home.treasury.gov/system/files/136/Managing-Artificial-Intelligence-Specific-Cybersecurity-Risks-In-The-Financial-Services-Sector.pdf)\n"
+  },
+  {
+    "title": "NIST Releases Version 2.0 of Landmark Cybersecurity Framework",
+    "url": "https://www.nist.gov/news-events/news/2024/02/nist-releases-version-20-landmark-cybersecurity-framework",
+    "id": "https://www.nist.gov/news-events/news/2024/02/nist-releases-version-20-landmark-cybersecurity-framework",
+    "score": 0.1541980504989624,
+    "published_date": "2024-02-26T00:00:00.000Z",
+    "author": "Chad Boutin",
+    "highlights": [
+      "\u201cCSF 2.0, which builds on previous versions, is not just about one document. It is about a suite of resources that can be customized and used individually or in combination over time as an organization\u2019s cybersecurity needs change and its capabilities evolve.\u201d The CSF 2.0, which supports implementation of the National Cybersecurity Strategy , has an expanded scope that goes beyond protecting critical infrastructure, such as hospitals and power plants, to all organizations in any sector. It also has a new focus on governance, which encompasses how organizations make and carry out informed decisions on cybersecurity strategy. The CSF\u2019s governance component emphasizes that cybersecurity is a major source of enterprise risk that senior leaders should consider alongside others such as finance and reputation. \u201cDeveloped by working closely with stakeholders and reflecting the most recent cybersecurity challenges and management practices, this update aims to make the framework even more relevant to a wider swath of users in the United States and abroad,\u201d according to Kevin Stine, chief of NIST\u2019s Applied Cybersecurity Division."
+    ],
+    "summary": "NIST has released version 2.0 of its Cybersecurity Framework (CSF), expanding upon the 2014 version to better serve all organizations, regardless of size or sector.  This update, supporting the National Cybersecurity Strategy ([https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf](https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf)), includes new quick-start guides, success stories, and a searchable catalog cross-referencing over 50 cybersecurity documents.  The core functions now include Identify, Protect, Detect, Respond, Recover, and the newly added Govern function.  The framework emphasizes governance and considers cybersecurity as a key enterprise risk.\n"
+  },
+  {
+    "title": "Treasury and the Financial Services Sector Coordinating Council Publish New Resources on Effective Practices for Secure Cloud Adoption",
+    "url": "https://home.treasury.gov/news/press-releases/jy2467",
+    "id": "https://home.treasury.gov/news/press-releases/jy2467",
+    "score": 0.1531505435705185,
+    "published_date": "2024-07-17T00:00:00.000Z",
+    "author": "",
+    "highlights": [
+      "The FBIIC led the following workstreams: The Cloud Lexicon is a foundational document that captures the most prominent terms used by cloud service providers and financial services sector consumers for a single repository and refence points. The development of the Cloud Lexicon was led by the Office of the Comptroller of the Currency (OCC), and will enable CSPs and financial services sector institutions of all sizes to speak in standardized terms when negotiating contract terms, establishing security schema, and adhering to regulatory standards. The document is based on a review of publications from several standard setting bodies and industry associations, and included interviews and feedback from financial institutions, regulators, and CSPs. The Coordinated Information Sharing and Examinations Initiative , led by the Consumer Financial Protection Bureau (CFPB), is a collaborative effort that addresses coordination of examinations and information sharing related to CSPs, under the respective agency\u2019s legal authorities. The documented process will support enhanced coordination between agencies to monitor and address risks to both the financial sector and consumers that can arise from financial institutions\u2019 engagement with CSPs."
+    ],
+    "summary": "The U.S. Department of the Treasury and the Financial Services Sector Coordinating Council (FSSCC) released resources on secure cloud adoption for financial institutions.  These resources, resulting from a public-private partnership, address gaps identified in Treasury's report on the Financial Services Sector\u2019s Adoption of Cloud Services ([https://home.treasury.gov/system/files/136/Treasury-Cloud-Report.pdf](https://home.treasury.gov/system/files/136/Treasury-Cloud-Report.pdf)).  The resources aim to establish a common lexicon, enhance information sharing, assess existing authorities for cloud service provider (CSP) oversight, establish best practices for third-party risk, and provide a roadmap for cloud adoption strategies.  The initiative is intended to help financial institutions of all sizes securely adopt cloud technologies and improve the overall resilience of the financial system.\n"
+  },
+  {
+    "title": "Quantum Security for the Financial Sector: Informing Global Regulatory Approaches",
+    "url": "https://www.weforum.org/publications/quantum-security-for-the-financial-sector-informing-global-regulatory-approaches/",
+    "id": "https://www.weforum.org/publications/quantum-security-for-the-financial-sector-informing-global-regulatory-approaches/",
+    "score": 0.14994534850120544,
+    "published_date": "2024-01-17T00:00:00.000Z",
+    "author": "",
+    "highlights": [
+      "This white paper, developed by the World Economic Forum in collaboration with the Financial Conduct Authority, offers guidance for businesses and regulators to ensure a collaborative and globally harmonized approach to quantum security. Quantum technologies have the potential to revolutionize financial services, improving computation, modelling and fraud detection. However, they also pose significant cybersecurity risks of systemic disruptions. These risks underscore the need for a unified, global and cross-industry approach to quantum security."
+    ],
+    "summary": "This World Economic Forum white paper, co-authored with the Financial Conduct Authority, advises businesses and regulators on a globally harmonized approach to quantum security in finance.  It addresses the potential of quantum technologies to revolutionize financial services while also highlighting the significant cybersecurity risks.  Unfortunately, a direct PDF link is not provided within the text you supplied.\n"
+  },
+  {
+    "title": "FSB Guidance on Arrangements to Support Operational Continuity in Resolution (revised version 2024)",
+    "url": "https://www.fsb.org/2024/03/fsb-guidance-on-arrangements-to-support-operational-continuity-in-resolution-revised-version-2024/",
+    "id": "https://www.fsb.org/2024/03/fsb-guidance-on-arrangements-to-support-operational-continuity-in-resolution-revised-version-2024/",
+    "score": 0.1484849900007248,
+    "published_date": "2024-03-18T00:00:00.000Z",
+    "author": "",
+    "highlights": [
+      "It covers legal, contractual and governance frameworks, resourcing, management information systems and financial resources. As part of the digitalisation of the financial services sector, financial institutions have increased their dependencies on third-party service providers in supporting critical shared services in recent years. This can bring multiple benefits to financial institutions, including flexibility, innovation and improved operational resilience. However, if not properly managed, disruption to critical shared services could affect the continued provision of critical functions, posing risks to orderly resolution and, in some cases, financial stability. The 2016 Guidance has been issued to include a supplementary note on the digitalisation of critical shared services as an addendum."
+    ],
+    "summary": "This March 2024 revised FSB guidance (PDF: [https://www.fsb.org/wp-content/uploads/P180324.pdf](https://www.fsb.org/wp-content/uploads/P180324.pdf))  updates 2016 guidance on ensuring operational continuity during the resolution of failing financial institutions.  It focuses on maintaining critical shared services (e.g., IT infrastructure) to support continued critical functions.  The revision adds a supplementary note addressing the increased reliance on third-party digital service providers, emphasizing the need for robust arrangements to manage potential disruptions and maintain operational continuity in a resolution scenario.  The supplementary note clarifies how existing guidance applies to digital services but doesn't introduce new requirements.\n"
+  },
+  {
+    "title": "2013 National Infrastructure Protection Plan | CISA",
+    "url": "https://www.cisa.gov/resources-tools/resources/2013-national-infrastructure-protection-plan",
+    "id": "https://www.cisa.gov/resources-tools/resources/2013-national-infrastructure-protection-plan",
+    "score": 0.14747662842273712,
+    "published_date": "2024-02-07T00:00:00.000Z",
+    "author": "",
+    "highlights": [
+      "\" NIPP 2013 meets the requirements of Presidential Policy Directive (PPD) 21: Critical Infrastructure Security and Resilience , signed in February 2013. The Plan was developed through a collaborative process involving stakeholders from all 16 critical infrastructure sectors, all 50 states, and from all levels of government and industry. It provides a clear call to action to leverage partnerships, innovate for risk management, and focus on outcomes."
+    ],
+    "summary": "Summary: The 2013 National Infrastructure Protection Plan (NIPP) streamlines and adapts the 2006 and 2009 versions to current risks and policies.  Developed collaboratively across government and industry sectors, it aims to secure and enhance the resilience of physical and cyber critical infrastructure.  The plan fulfills the requirements of Presidential Policy Directive 21 and emphasizes partnerships, innovative risk management, and measurable outcomes.  Unfortunately, a direct PDF link to the plan is not provided within the given text excerpt.\n"
+  },
+  {
+    "title": "NIST Special Publication (SP) 800-66 Rev. 2, Implementing the Health Insurance Portability and Accountability Act (HIPAA) Security Rule: A Cybersecurity Resource Guide",
+    "url": "https://csrc.nist.gov/pubs/sp/800/66/r2/final",
+    "id": "https://csrc.nist.gov/pubs/sp/800/66/r2/final",
+    "score": 0.14657510817050934,
+    "published_date": "2024-02-14T00:00:00.000Z",
+    "author": "Jeffrey Marron (NIST)",
+    "highlights": [
+      "This publication provides practical guidance and resources that can be used by regulated entities of all sizes to safeguard ePHI and better understand the security concepts discussed in the HIPAA Security Rule. Keywords administrative safeguards ; Health Insurance Portability and Accountability Act ; implementation specification ; physical safeguards ; risk assessment ; risk management ; Security Rule ; standards ; technical safeguards Control Families None selected"
+    ],
+    "summary": "NIST Special Publication (SP) 800-66 Rev. 2, published February 2024, is a cybersecurity resource guide for implementing the HIPAA Security Rule.  It offers practical guidance for safeguarding electronic protected health information (ePHI) against threats and unauthorized access.  This revised publication supersedes SP 800-66 Rev. 1.  Key resources, including mappings to the NIST Cybersecurity Framework and relevant publications, are available via NIST's Cybersecurity and Privacy Reference Tool (CPRT) [link provided in the original text, but not a direct PDF link].  The guide covers administrative, physical, and technical safeguards, risk assessment, and risk management.  A direct PDF link is not included in the provided text.\n"
+  },
+  {
+    "title": "",
+    "url": "https://twitter.com/CommerceGov/status/1750186957794140492",
+    "id": "https://twitter.com/CommerceGov/status/1750186957794140492",
+    "score": 0.1462853103876114,
+    "published_date": "2024-01-24T00:00:00.000Z",
+    "author": "CommerceGov",
+    "highlights": [
+      "A newly revised draft guidance from @NIST offers insight on developing an effective #cybersecurity program and a flexible approach for developing information security measures to meet your organization\u2019s performance goals. Discover more \u2b07\ufe0f : https://t.co/lu5NTuzjcq| created_at: Wed Jan 24 16:01:02 +0000 2024 | favorite_count: 3 | quote_count: 0 | reply_count: 1 | retweet_count: 0 | is_quote_status: False | retweeted: False | lang: en"
+    ],
+    "summary": "The U.S. Department of Commerce's National Institute of Standards and Technology (NIST) has released revised draft guidance on developing effective cybersecurity programs.  This guidance offers a flexible approach to information security measures tailored to an organization's performance goals.  The full guidance is available here: [https://t.co/lu5NTuzjcq](https://t.co/lu5NTuzjcq)\n"
+  }
+]

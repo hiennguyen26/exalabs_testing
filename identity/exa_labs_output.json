@@ -1,0 +1,122 @@
+[
+  {
+    "title": "FinCEN Issues Analysis of Identity-Related Suspicious Activity",
+    "url": "https://www.fincen.gov/news/news-releases/fincen-issues-analysis-identity-related-suspicious-activity",
+    "id": "https://www.fincen.gov/news/news-releases/fincen-issues-analysis-identity-related-suspicious-activity",
+    "score": 0.13253340125083923,
+    "published_date": "2024-01-09T00:00:00.000Z",
+    "author": null,
+    "highlights": [
+      "While most financial institutions in the identity-related BSA dataset reported impersonation as their top identity exploitation, money services businesses most often reported circumvention of verification. The report found that compromised credentials have a disproportionate financial impact as compared to other types of identity exploitation. FinCEN\u2019s FTAs highlight the value of information filed by financial institutions in accordance with the BSA. Additional reports on a variety of topics are located on FinCEN\u2019s website . FinCEN is committed to using its authorities to assist financial institutions with detecting, reporting, and preventing criminals from circumventing these processes to victimize customers."
+    ],
+    "summary": "FinCEN's January 9, 2024 Financial Trend Analysis (FTA) report examines identity-related suspicious activity reported in 2021 Bank Secrecy Act (BSA) filings.  The report reveals 1.6 million reports (42% of all reports), totaling $212 billion in suspicious activity.  Key findings include the prevalence of fraud, false records, identity theft, third-party money laundering, and circumvention of verification standards (accounting for 88% of reports and 74% of the total amount).  Depository institutions filed the most reports (54%), while money services businesses most often reported verification circumvention.  The report highlights the disproportionate financial impact of compromised credentials.  The FTA doesn't appear to include a direct PDF link within the provided text.  Further details and additional reports are available on FinCEN's website: [https://www.fincen.gov/resources/financial-trend-analyses](https://www.fincen.gov/resources/financial-trend-analyses).\n"
+  },
+  {
+    "title": "NIST Releases Second Public Draft of Digital Identity Guidelines for Final Review",
+    "url": "https://www.nist.gov/news-events/news/2024/08/nist-releases-second-public-draft-digital-identity-guidelines-final-review",
+    "id": "https://www.nist.gov/news-events/news/2024/08/nist-releases-second-public-draft-digital-identity-guidelines-final-review",
+    "score": 0.13040441274642944,
+    "published_date": "2024-08-21T00:00:00.000Z",
+    "author": "Chad Boutin",
+    "highlights": [
+      "N. Hanacek, B. Hayes/NIST \u201cEveryone should be able to lawfully access government services, regardless of their chosen methods of identification,\u201d said We are trying to make sure we maintain as many pathways as possible to enable secure online access to services,\u201d said NIST Digital Identity Program Lead Ryan Galluzzo, one of the publication\u2019s authors. \u201cWe want to open up the use of modern digital pathways while still allowing for physical and manual methods whenever they may be necessary.\u201d \u201cWe want to open up the use of modern digital pathways while still allowing for physical and manual methods whenever they may be necessary.\u201d \u2014Ryan Galluzzo, NIST Digital Identity Program Lead severalmajorcompanies \u2014"
+    ],
+    "summary": "The National Institute of Standards and Technology (NIST) has released a second public draft of its digital identity guidelines for final review.  The guidelines aim to ensure lawful access to government services regardless of identification method, balancing modern digital pathways with physical and manual options.  While the text doesn't directly provide a PDF link, it references the guidelines as  \"[https://csrc.nist.gov/pubs/sp/800/63/4/2pd](https://csrc.nist.gov/pubs/sp/800/63/4/2pd)\" (and similar URLs with letter variations, a-c, suggesting different parts of the guidelines).  These links should lead to the downloadable PDF(s).  The public is encouraged to provide feedback.\n"
+  },
+  {
+    "title": "Required Rulemaking on Personal Financial Data Rights | Consumer Financial Protection Bureau",
+    "url": "https://www.consumerfinance.gov/rules-policy/final-rules/required-rulemaking-on-personal-financial-data-rights/",
+    "id": "https://www.consumerfinance.gov/rules-policy/final-rules/required-rulemaking-on-personal-financial-data-rights/",
+    "score": 0.12961333990097046,
+    "published_date": "2024-09-24T00:00:00.000Z",
+    "author": "",
+    "highlights": [
+      "The Consumer Financial Protection Bureau (CFPB) is issuing a final rule to carry out the personal financial data rights established by the Consumer Financial Protection Act of 2010 (CFPA). The final rule requires banks, credit unions, and other financial service providers to make consumers\u2019 data available upon request to consumers and authorized third parties in a secure and reliable manner; defines obligations for third parties accessing consumers\u2019 data, including important privacy protections; and promotes fair, open, and inclusive industry standards. Final rule"
+    ],
+    "summary": "The Consumer Financial Protection Bureau (CFPB) has issued a final rule regarding personal financial data rights, as mandated by the Consumer Financial Protection Act of 2010.  This rule requires financial institutions to provide consumers with access to their data, and sets guidelines for third-party access, emphasizing security and privacy.  You can find the full final rule here: [https://files.consumerfinance.gov/f/documents/cfpb_personal-financial-data-rights-final-rule_2024-10.pdf](https://files.consumerfinance.gov/f/documents/cfpb_personal-financial-data-rights-final-rule_2024-10.pdf)\n"
+  },
+  {
+    "title": "Ribbit Identity Letter January 2024.pdf",
+    "url": "https://drive.google.com/file/d/1FgHsqqKSAIHQdU4eAR6U_TBE6F9lL4hd/view",
+    "id": "https://drive.google.com/file/d/1FgHsqqKSAIHQdU4eAR6U_TBE6F9lL4hd/view",
+    "score": 0.1254437118768692,
+    "published_date": "2024-02-02T00:00:00.000Z",
+    "author": "",
+    "highlights": [
+      "Over 100 countries now have data protection and privacy rules in place, and the advent of the EU\u2019s General Data Protection Regulation (GDPR) in 2018 has led to increasing data regulation everywhere. The center will not hold. As businesses struggle to keep pace with criminals and regulators, we expect data banks to be some of the fastest growing identity businesses in the years ahead. Like traditional banks, data banks most sacred job will be to keep their assets (i.e. data) safe and ensure compliance."
+    ],
+    "summary": "This January 2024 letter from Ribbit Capital discusses the challenges and opportunities surrounding digital identity in financial services.  The authors argue that while digital finance has advanced significantly, identity verification remains antiquated and cumbersome.  They highlight the disconnect between readily available digital payment systems and the inefficient processes required for identity verification (e.g., submitting physical documents).  The letter emphasizes the importance of robust identity solutions for improving the user experience and streamlining financial transactions.  The PDF is available here: [https://drive.google.com/file/d/1FgHsqqKSAIHQdU4eA](https://drive.google.com/file/d/1FgHsqqKSAIHQdU4eA)\n"
+  },
+  {
+    "title": "Identity Theft Awareness Week 2024 starts January 29",
+    "url": "https://consumer.ftc.gov/consumer-alerts/2024/01/identity-theft-awareness-week-2024-starts-january-29?utm_campaign=identity_theft_awareness_&utm_content=1706219110&utm_medium=social&utm_source=facebook,twitter",
+    "id": "https://consumer.ftc.gov/consumer-alerts/2024/01/identity-theft-awareness-week-2024-starts-january-29?utm_campaign=identity_theft_awareness_&utm_content=1706219110&utm_medium=social&utm_source=facebook,twitter",
+    "score": 0.12147542089223862,
+    "published_date": "2024-01-24T00:00:00.000Z",
+    "author": "Alvaro Puig",
+    "highlights": [
+      ""
+    ],
+    "summary": "This webpage announces Identity Theft Awareness Week 2024, starting January 29th.  It includes a link to a YouTube video summarizing the key information.  Unfortunately, no PDF is available on this page.\n"
+  },
+  {
+    "title": "SEC, FinCEN Propose Customer Identification Program Requirements for Registered Investment Advisers and Exempt Reporting Advisers",
+    "url": "https://www.fincen.gov/news/news-releases/sec-fincen-propose-customer-identification-program-requirements-registered#:~:text=WASHINGTON%E2%80%94Today%2C%20the%20Securities%20and,to%20establish%2C%20document%2C%20and%20maintain",
+    "id": "https://www.fincen.gov/news/news-releases/sec-fincen-propose-customer-identification-program-requirements-registered#:~:text=WASHINGTON%E2%80%94Today%2C%20the%20Securities%20and,to%20establish%2C%20document%2C%20and%20maintain",
+    "score": 0.1189979761838913,
+    "published_date": "2024-05-13T00:00:00.000Z",
+    "author": "",
+    "highlights": [
+      "The proposal is generally consistent with the CIP requirements for other financial institutions, such as brokers or dealers in securities and mutual funds. The proposal will be published on SEC.gov and in the Federal Register. The public comment period will remain open for 60 days after publication of the proposing release in the Federal Register. A Fact Sheet on the Notice of Proposed Rulemaking is available on the SEC\u2019s website . ###"
+    ],
+    "summary": "The SEC and FinCEN jointly proposed a new rule requiring registered investment advisors (RIAs) and exempt reporting advisors (ERAs) to implement customer identification programs (CIPs).  This is to prevent illicit finance activities, such as money laundering and terrorist financing, by strengthening the AML/CFT framework.  The proposed rule mandates reasonable procedures to verify customer identities, making it harder for criminals to use false identities.  This complements a separate FinCEN proposal designating RIAs and ERAs as financial institutions under the Bank Secrecy Act.  A fact sheet on the Notice of Proposed Rulemaking is available at [https://www.sec.gov/files/bsa-1-fact-sheet.pdf](https://www.sec.gov/files/bsa-1-fact-sheet.pdf) and the proposed rule itself at [https://www.sec.gov/files/rules/proposed/2024/bsa-1.pdf](https://www.sec.gov/files/rules/proposed/2024/bsa-1.pdf).  The public comment period is open for 60 days after publication in the Federal Register.\n"
+  },
+  {
+    "title": "Highlights of a Forum: Financial Literacy in a Digital Age",
+    "url": "https://www.gao.gov/products/gao-25-107168?utm_medium=social&utm_source=twitter&utm_campaign=usgao",
+    "id": "https://www.gao.gov/products/gao-25-107168?utm_medium=social&utm_source=twitter&utm_campaign=usgao",
+    "score": 0.11652527004480362,
+    "published_date": "2024-11-13T00:00:00.000Z",
+    "author": "U S Government Accountability Office",
+    "highlights": [
+      "The growth of these digital financial services, such as peer-to-peer payment methods, has significantly affected consumers\u2019 financial choices, opportunities, and risks. These developments also underscore the need for digital financial literacy\u2014that is, the knowledge, skills, and abilities to safely use digitally delivered products and services to make informed financial decisions. On June 12, 2024, GAO convened a group of experts and stakeholders for a forum on how consumers\u2019 financial literacy has been affected by the increased digital offering of products, services, and education. The participants discussed opportunities and risks of digital financial services,financial services, key skills for navigating the digital financial landscape, and digital delivery of financial literacy education. Participants were selected to represent a range of experience and viewpoints."
+    ],
+    "summary": "A Government Accountability Office (GAO) forum explored the impact of digital financial products and services on consumer financial literacy.  Key findings highlight increased access for low-income and minority consumers, but also heightened risks of fraud and scams due to limited consumer protections.  Consumers need both technical and financial knowledge to navigate this landscape effectively.  While digital technology expands financial education options (e.g., podcasts, personalized learning), the quality of information varies widely.  Further research is needed to fully understand the effects of these products, hampered by challenges in data access from private companies.  A PDF of the report is not directly available through the provided URL, however, this link may contain more information: https://www.gao.gov/products/gao-25-107168?utm_med\n"
+  },
+  {
+    "title": "Genuine DeFi as Critical Infrastructure: A Conceptual Framework for Combating Illicit Finance Activity in Decentralized Finance",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4607332",
+    "id": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4607332",
+    "score": 0.11623892933130264,
+    "published_date": "2024-01-29T00:00:00.000Z",
+    "author": "Rettig; Rebecca; Mosier; Michael; Gilman; Katja",
+    "highlights": [
+      "Date Written: January 29, 2024 Abstract Combating illicit financial activity in permissionless blockchain-based financial systems \u2014 referred to as \u201cdecentralized finance\u201d or \u201cDeFi\u201d \u2014 has challenged regulators and policymakers. Traditional financial integrity laws and regulations, comprised of antimoney laundering (\u201cAML\u201d)/countering the financing of terrorism (\u201cCFT\u201d) and sanctions, attach to intermediaries, including, with respect to AML/CFT obligations, those intermediaries the Bank Secrecy Act (\u201cBSA\u201d) defines as \u201cfinancial institutions.\u201d The current laws, however, are not amenable to intermediary-less systems like DeFi. This paper proposes a framework (see Section III) to effectively detect, deter and prevent illicit financial activity in DeFi, while preserving the technology as permissionless, neutral infrastructure. The three-part proposal (1) sets forth a definition of \u201cindependent control\u201d in order to identify smart-contract based financial protocols that do not constitute DeFi; (2) seeks to classify genuine DeFi protocols \u2014 neutral, decentralized software \u2014 as \u201ccritical infrastructure,\u201d subject to oversight and security coordination by the Treasury Department\u2019s Office of Cybersecurity and Critical Infrastructure Protection (\u201cOCCIP\u201d); and (3) suggests that new laws could require certain businesses that are (a) necessary to the transmittal of communications about DeFi transactions, (b) transmit a material portion of such communications and (c) offer the service as a business to take on additional illicit finance risk management practices, without becoming \u201cfinancial institutions\u201d subject to the BSA. This paper is intended to begin a meaningful conversation about how to achieve the policy goals of combating illicit financial activities while allowing for continued innovation in DeFi, a nascent technological sector."
+    ],
+    "summary": "This paper (available at https://ssrn.com/abstract=4607332 or http://dx.doi.org/10.2139/ssrn.4607332) proposes a framework for combating illicit finance in Decentralized Finance (DeFi) while preserving DeFi's permissionless nature.  It suggests defining \"independent control\" to distinguish genuine DeFi from centralized systems, classifying genuine DeFi as \"critical infrastructure\" under the Treasury Department's OCCIP, and imposing AML/CFT-related risk management practices on businesses facilitating DeFi communications, without designating them as \"financial institutions\" under the BSA.  The goal is to balance combating illicit activities with fostering DeFi innovation.\n"
+  },
+  {
+    "title": "Technological and Economic Threats to the U.S. Financial System: An Initial Assessment of Growing Risks",
+    "url": "https://www.rand.org/pubs/research_reports/RRA2533-1.html?utm_campaign=&utm_content=1707844880&utm_medium=rand_social&utm_source=twitter",
+    "id": "https://www.rand.org/pubs/research_reports/RRA2533-1.html?utm_campaign=&utm_content=1707844880&utm_medium=rand_social&utm_source=twitter",
+    "score": 0.11444728076457977,
+    "published_date": "2024-02-13T00:00:00.000Z",
+    "author": "Sytsma; Tobias; Marrone; James V; Shenk; Anton; Leonard; Gabriel; Grek; Lydia; Steier; Joshua",
+    "highlights": [
+      "Data privacy regulations could limit the threat posed by AI-augmented disinformation campaigns. Regulations would make it harder for malicious actors to collect detailed data that could be used to create and disseminate highly customized messages to influence individual behavior. Recommendations Proactive risk management solutions could prevent losses. Advancing AI is likely to play a key role in determining whether an adversary can carry out a successful attack. Thus, policies that encourage the responsible development and use of AI technologies can act as important safeguards to financial stability."
+    ],
+    "summary": "This RAND Corporation research report assesses growing technological and economic threats to the U.S. financial system.  Unfortunately, the provided text is primarily the website navigation and does not contain the report's content.  Therefore, a summary of the report's findings is not possible. To access the report's content and PDF, please visit the provided URL: [https://www.rand.org/pubs/research_reports/RRA2533](https://www.rand.org/pubs/research_reports/RRA2533).\n"
+  },
+  {
+    "title": "Veterans: Guard against identity theft",
+    "url": "https://consumer.ftc.gov/consumer-alerts/2024/01/veterans-guard-against-identity-theft?utm_campaign=veterans:_guard_against_i&utm_content=1706883390&utm_medium=social&utm_source=facebook,twitter",
+    "id": "https://consumer.ftc.gov/consumer-alerts/2024/01/veterans-guard-against-identity-theft?utm_campaign=veterans:_guard_against_i&utm_content=1706883390&utm_medium=social&utm_source=facebook,twitter",
+    "score": 0.11264879256486893,
+    "published_date": "2024-01-31T00:00:00.000Z",
+    "author": "Alvaro Puig",
+    "highlights": [
+      ""
+    ],
+    "summary": "Summary:\n\nThe provided text is empty; therefore, no summary or PDF link can be provided.  To answer your query, please provide the actual content of the webpage.\n"
+  }
+]

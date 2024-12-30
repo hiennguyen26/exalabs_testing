@@ -1,0 +1,122 @@
+[
+  {
+    "title": "From COBIT to ISO 42001: Evaluating Cybersecurity Frameworks for Opportunities, Risks, and Regulatory Compliance in Commercializing Large Language Models",
+    "url": "https://arxiv.org/abs/2402.15770",
+    "id": "https://arxiv.org/abs/2402.15770",
+    "score": 0.1360412985086441,
+    "published_date": "2024-02-24T00:00:00.000Z",
+    "author": "[Submitted on 24 Feb 2024]",
+    "highlights": [
+      "View PDF HTML (experimental) Abstract: This study investigated the integration readiness of four predominant cybersecurity Governance, Risk and Compliance (GRC) frameworks - NIST CSF 2.0, COBIT 2019, ISO 27001:2022, and the latest ISO 42001:2023 - for the opportunities, risks, and regulatory compliance when adopting Large Language Models (LLMs), using qualitative content analysis and expert validation. Our analysis, with both LLMs and human experts in the loop, uncovered potential for LLM integration together with inadequacies in LLM risk oversight of those frameworks. Comparative gap analysis has highlighted that the new ISO 42001:2023, specifically designed for Artificial Intelligence (AI) management systems, provided most comprehensive facilitation for LLM opportunities, whereas COBIT 2019 aligned most closely with the impending European Union AI Act. Nonetheless, our findings suggested that all evaluated frameworks would benefit from enhancements to more effectively and more comprehensively address the multifaceted risks associated with LLMs, indicating a critical and time-sensitive need for their continuous evolution. We propose integrating human-expert-in-the-loop validation processes as crucial for enhancing cybersecurity frameworks to support secure and compliant LLM integration, and discuss implications for the continuous evolution of cybersecurity GRC frameworks to support the secure integration of LLMs."
+    ],
+    "summary": "This study (PDF: [https://arxiv.org/pdf/2402.15770](https://arxiv.org/pdf/2402.15770)) compares four cybersecurity frameworks (NIST CSF 2.0, COBIT 2019, ISO 27001:2022, and ISO 42001:2023) for their suitability in managing the risks and opportunities of Large Language Model (LLM) adoption.  The research, using qualitative content analysis and expert validation, found ISO 42001:2023 (designed for AI management) best facilitates LLM opportunities, while COBIT 2019 aligns well with the EU AI Act.  However, all frameworks need improvement to comprehensively address LLM risks, highlighting the need for ongoing evolution and the integration of human expert validation processes.\n"
+  },
+  {
+    "title": "Technological and Economic Threats to the U.S. Financial System: An Initial Assessment of Growing Risks",
+    "url": "https://www.rand.org/pubs/research_reports/RRA2533-1.html?utm_campaign=&utm_content=1707844880&utm_medium=rand_social&utm_source=twitter",
+    "id": "https://www.rand.org/pubs/research_reports/RRA2533-1.html?utm_campaign=&utm_content=1707844880&utm_medium=rand_social&utm_source=twitter",
+    "score": 0.13552282750606537,
+    "published_date": "2024-02-13T00:00:00.000Z",
+    "author": "Sytsma; Tobias; Marrone; James V; Shenk; Anton; Leonard; Gabriel; Grek; Lydia; Steier; Joshua",
+    "highlights": [
+      "Regulations would make it harder for malicious actors to collect detailed data that could be used to create and disseminate highly customized messages to influence individual behavior. Recommendations Proactive risk management solutions could prevent losses. Advancing AI is likely to play a key role in determining whether an adversary can carry out a successful attack. Thus, policies that encourage the responsible development and use of AI technologies can act as important safeguards to financial stability. Apart from regulatory policy, economic policies that encoura"
+    ],
+    "summary": "This RAND Corporation research report (RRA2533) assesses growing technological and economic threats to the U.S. financial system.  Unfortunately, a direct PDF link is not provided within the initial website snippet.  To access the PDF, you will need to visit the provided URL: https://www.rand.org/pubs/research_reports/RRA2533 and locate the download link on that page.  The report analyzes various risks, though specifics are unavailable from the limited text provided.\n"
+  },
+  {
+    "title": "Genuine DeFi as Critical Infrastructure: A Conceptual Framework for Combating Illicit Finance Activity in Decentralized Finance",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4607332",
+    "id": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4607332",
+    "score": 0.13521531224250793,
+    "published_date": "2024-01-29T00:00:00.000Z",
+    "author": "Rettig; Rebecca; Mosier; Michael; Gilman; Katja",
+    "highlights": [
+      "Date Written: January 29, 2024 Abstract Combating illicit financial activity in permissionless blockchain-based financial systems \u2014 referred to as \u201cdecentralized finance\u201d or \u201cDeFi\u201d \u2014 has challenged regulators and policymakers. Traditional financial integrity laws and regulations, comprised of antimoney laundering (\u201cAML\u201d)/countering the financing of terrorism (\u201cCFT\u201d) and sanctions, attach to intermediaries, including, with respect to AML/CFT obligations, those intermediaries the Bank Secrecy Act (\u201cBSA\u201d) defines as \u201cfinancial institutions.\u201d The current laws, however, are not amenable to intermediary-less systems like DeFi. This paper proposes a framework (see Section III) to effectively detect, deter and prevent illicit financial activity in DeFi, while preserving the technology as permissionless, neutral infrastructure. The three-part proposal (1) sets forth a definition of \u201cindependent control\u201d in order to identify smart-contract based financial protocols that do not constitute DeFi; (2) seeks to classify genuine DeFi protocols \u2014 neutral, decentralized software \u2014 as \u201ccritical infrastructure,\u201d subject to oversight and security coordination by the Treasury Department\u2019s Office of Cybersecurity and Critical Infrastructure Protection (\u201cOCCIP\u201d); and (3) suggests that new laws could require certain businesses that are (a) necessary to the transmittal of communications about DeFi transactions, (b) transmit a material portion of such communications and (c) offer the service as a business to take on additional illicit finance risk management practices, without becoming \u201cfinancial institutions\u201d subject to the BSA. This paper is intended to begin a meaningful conversation about how to achieve the policy goals of combating illicit financial activities while allowing for continued innovation in DeFi, a nascent technological sector."
+    ],
+    "summary": "This paper (available at [https://ssrn.com/abstract=4607332](https://ssrn.com/abstract=4607332) or [http://dx.doi.org/10.2139/ssrn.4607332](http://dx.doi.org/10.2139/ssrn.4607332)) proposes a framework for combating illicit finance in Decentralized Finance (DeFi) while preserving DeFi's permissionless nature.  The framework defines \"independent control\" to distinguish genuine DeFi from centralized systems, classifies genuine DeFi as critical infrastructure under the Treasury Department's OCCIP, and suggests requiring certain businesses facilitating DeFi communications to adopt additional illicit finance risk management practices without becoming regulated financial institutions.  The goal is to balance combating illicit activities with fostering DeFi innovation.\n"
+  },
+  {
+    "title": "cyberdefensereview.army.mil",
+    "url": "https://perma.cc/VX9F-Y4B2",
+    "id": "https://perma.cc/VX9F-Y4B2",
+    "score": 0.1336420774459839,
+    "published_date": "2024-02-12T00:00:00.000Z",
+    "author": "",
+    "highlights": [
+      "Title cyberdefensereview.army.mil Description This is an archive of https://cyberdefensereview.army.mil/Portals/6/Documents/2022_summer_cdr/08_Valeriano_CDR_V7N3_Summer_2022.pdf?ver=7MCo6VFl2ITu0SiNBMFWvg%3D%3D from Wednesday 31, January 2024"
+    ],
+    "summary": "This page archives a PDF titled \"08_Valeriano_CDR_V7N3_Summer_2022.pdf\" from the US Army's Cyber Defense Review.  The archived PDF can be accessed here: https://cyberdefensereview.army.mil/Portals/6/Documents/2022_summer_cdr/08_Valeriano_CDR_V7N3_Summer_2022.pdf?ver=7MCo6VFl2ITu0SiNBMFWvg%3D%3D\n"
+  },
+  {
+    "title": "Investigating Algorithm Review Boards for Organizational Responsible Artificial Intelligence Governance",
+    "url": "https://arxiv.org/abs/2402.01691",
+    "id": "https://arxiv.org/abs/2402.01691",
+    "score": 0.13120627403259277,
+    "published_date": "2024-01-23T00:00:00.000Z",
+    "author": "Hadley; Emily; Blatecky; Alan; Comfort; Megan",
+    "highlights": [
+      "We summarized the first detailed findings on algorithm review boards (ARBs) and similar review committees in practice, including their membership, scope, and measures of success. We confirmed known robust model governance in finance sectors and revealed extensive algorithm and AI governance with ARB-like review boards in health sectors. Our findings contradict the idea that Institutional Review Boards alone are sufficient for algorithm governance and posit that ARBs are among the more impactful internal RAI governance approaches. Our results suggest that integration with existing internal regulatory approaches and leadership buy-in are among the most important attributes for success and that financial tensions are the greatest challenge to effective organizational RAI. We make a variety of suggestions for how organizational partners can learn from these findings when building their own internal RAI frameworks."
+    ],
+    "summary": "This paper (PDF: <a href=\"https://arxiv.org/pdf/2402.01691\">https://arxiv.org/pdf/2402.01691</a>) investigates algorithm review boards (ARBs) as a key component of responsible AI (RAI) governance within organizations.  Based on interviews with 17 technical contributors across various sectors, the researchers found that ARBs are impactful, particularly in the health and finance sectors, contradicting the notion that Institutional Review Boards alone suffice. The study highlights the importance of integration with existing regulatory structures, leadership support, and addressing financial challenges for ARB success.  The authors offer suggestions for building internal RAI frameworks and outline future research directions for ARB effectiveness.\n"
+  },
+  {
+    "title": "Public vs Private Bodies: Who Should Run Advanced AI Evaluations and Audits? A Three-Step Logic Based on Case Studies of High-Risk Industries",
+    "url": "https://arxiv.org/abs/2407.20847",
+    "id": "https://arxiv.org/abs/2407.20847",
+    "score": 0.1304793804883957,
+    "published_date": "2024-07-30T00:00:00.000Z",
+    "author": "[Submitted on 30 Jul 2024]",
+    "highlights": [
+      "Auditing is a necessary governance tool to understand and manage the risks of a technology. This paper draws from nine such regimes to inform (i) who should audit which parts of advanced AI; and (ii) how much resources, competence and access public bodies may need to audit advanced AI effectively. First, the effective responsibility distribution between public and private auditors depends heavily on specific industry and audit conditions. On the basis of the risk profile of advanced AI, the sensitivity of information involved in the auditing process, and the high costs of verifying safety and benefit claims of AI Labs, we recommend that public bodies become directly involved in safety critical, especially gray- and white-box, AI model audits. Governance and security audits, which are well-established in other industry contexts, as well as black-box model audits, may be more efficiently provided by a private market of auditors under public oversight."
+    ],
+    "summary": "This paper (available as a PDF: [https://arxiv.org/pdf/2407.20847](https://arxiv.org/pdf/2407.20847)) examines whether public or private entities should audit advanced AI.  It analyzes nine established auditing regimes across various high-risk industries and concludes that the optimal approach depends on factors like risk level, data sensitivity, and audit costs.  The authors recommend public bodies directly audit safety-critical AI models (especially those with \"gray-box\" and \"white-box\" access), while private auditors, under public oversight, could handle governance, security, and black-box model audits.  Public bodies will need significant resources and access to AI models and facilities, potentially requiring hundreds of employees in large jurisdictions to effectively perform their role.\n"
+  },
+  {
+    "title": "FINRA Publishes 2024 Regulatory Oversight Report",
+    "url": "https://www.finra.org/media-center/newsreleases/2024/finra-publishes-2024-regulatory-oversight-report",
+    "id": "https://www.finra.org/media-center/newsreleases/2024/finra-publishes-2024-regulatory-oversight-report",
+    "score": 0.12950386106967926,
+    "published_date": "2024-01-09T00:00:00.000Z",
+    "author": "",
+    "highlights": [
+      "Other Topics Include: Cybersecurity. FINRA has observed an increase in the variety, frequency and sophistication of certain cybersecurity incidents, including the establishment of imposter websites, insider threats, ransomware and cybersecurity events at critical vendors. FINRA has provided guidance to firms related to identifying, preventing and mitigating incidents through its Cybersecurity Topic Page and its new Industry Risks and Threats Resource page , which include guidance concerning particularly significant ongoing and emerging threats to firms and investors. Anti-Money Laundering (AML), Fraud and Sanctions. FINRA member firms are required to develop and implement a written AML program that is approved in writing by senior management and is reasonably designed to achieve and monitor the firm\u2019s compliance with the Bank Secrecy Act and its implementing regulations."
+    ],
+    "summary": "The 2024 FINRA Annual Regulatory Oversight Report highlights key findings from FINRA's regulatory operations, offering insights for firms to strengthen their compliance programs.  New topics covered include crypto asset developments (including risk considerations for firms engaging in crypto-related activities) and advertised volume (addressing inflated trade volume and inadequate supervision).  Other areas addressed are cybersecurity (increased incidents including imposter websites and ransomware), Anti-Money Laundering (AML), fraud, and sanctions (including program scope and suspicious activity reporting), Reg BI and Form CRS implementation, and Consolidated Audit Trail (CAT) compliance.  The report details 26 topics, providing relevant rules, compliance considerations, noteworthy findings, effective practices, and additional resources.  Unfortunately, a direct PDF link to the report is not provided in the given text.  The text does however link to the report on the FINRA website: [https://www.finra.org/rules-guidance/guidance/reports/2024-finra-annual-regulatory-oversight-report](https://www.finra.org/rules-guidance/guidance/reports/2024-finra-annual-regulatory-oversight-report)\n"
+  },
+  {
+    "title": "Quantum Security for the Financial Sector: Informing Global Regulatory Approaches",
+    "url": "https://www.weforum.org/publications/quantum-security-for-the-financial-sector-informing-global-regulatory-approaches/",
+    "id": "https://www.weforum.org/publications/quantum-security-for-the-financial-sector-informing-global-regulatory-approaches/",
+    "score": 0.12934055924415588,
+    "published_date": "2024-01-17T00:00:00.000Z",
+    "author": "",
+    "highlights": [
+      "This white paper, developed by the World Economic Forum in collaboration with the Financial Conduct Authority, offers guidance for businesses and regulators to ensure a collaborative and globally harmonized approach to quantum security. Quantum technologies have the potential to revolutionize financial services, improving computation, modelling and fraud detection. However, they also pose significant cybersecurity risks of systemic disruptions. These risks underscore the need for a unified, global and cross-industry approach to quantum security."
+    ],
+    "summary": "This World Economic Forum white paper, co-authored with the Financial Conduct Authority, advises businesses and regulators on achieving a globally harmonized approach to quantum security in finance.  It addresses the potential of quantum technologies to revolutionize financial services while highlighting the significant cybersecurity risks.  Unfortunately, a direct PDF link is not provided in the text.\n"
+  },
+  {
+    "title": "Toward a 21st Century National Data Infrastructure: Managing Privacy and Confidentiality Risks with Blended Data",
+    "url": "https://nap.nationalacademies.org/catalog/27335/toward-a-21st-century-national-data-infrastructure-managing-privacy-and-confidentiality-risks-with-blended-data",
+    "id": "https://nap.nationalacademies.org/catalog/27335/toward-a-21st-century-national-data-infrastructure-managing-privacy-and-confidentiality-risks-with-blended-data",
+    "score": 0.12397229671478271,
+    "published_date": "2024-02-07T00:00:00.000Z",
+    "author": "National Academies; Engineering; Medicine",
+    "highlights": [
+      "The complete terms and conditions of your reuse license can be found in the license agreement that will be made available to you during the online order process. To request permission through Marketplace you are required to create an account by filling out a simple online form. The following list describes license reuses offered by the NAP through Marketplace: Republish text, tables, figures, or images in print Post on a secure Intranet/Extranet website Use in a PowerPoint Presentation Distribute via CD-ROM Photocopy Click here to obtain permission for the above reuses. If you have questions or comments concerning the Marketplace service, please contact: Marketplace Support International +1.978.646.2600 US Toll Free +1.855.239.3415 E-mail: support@copyright.com marketplace.copyright.com To request permission to distribute a PDF, please contact our Customer Service Department at customer_service@nap.edu ."
+    ],
+    "summary": "This page from the National Academies Press (NAP) does not contain the PDF of the report \"Toward a 21st Century National Data Infrastructure: Managing Privacy and Confidentiality Risks with Blended Data.\"  It only provides information on how to obtain permission to reuse content from the report through Copyright Clearance Center's Marketplace.  To request permission to distribute a PDF, contact customer_service@nap.edu.\n"
+  },
+  {
+    "title": "Cloud Security: Federal Authorization Program Usage Increasing, but Challenges Need to Be Fully Addressed",
+    "url": "https://www.gao.gov/products/gao-24-106591?utm_medium=social&utm_source=twitter&utm_campaign=usgao",
+    "id": "https://www.gao.gov/products/gao-24-106591?utm_medium=social&utm_source=twitter&utm_campaign=usgao",
+    "score": 0.1228107213973999,
+    "published_date": "2024-01-18T00:00:00.000Z",
+    "author": "U S Government Accountability Office",
+    "highlights": [
+      "Some cost estimates are available and widely varied, but actual costs are unclear\u2014so OMB may not have the information it needs for this effort. Our 3 recommendations address this and other issues. Skip to Highlights Highlights What GAO Found The Office of Management and Budget (OMB) established the Federal Risk and Authorization Management Program (FedRAMP) to provide a standardized approach for authorizing the use of cloud services. From July 2019 to April 2023, the 24 Chief Financial Officers (CFO) Act agencies increased the number of authorizations by about 60 percent. These authorizations covered services ranging from a basic computer infrastructure to a more full-service model that included software applications."
+    ],
+    "summary": "The GAO report (https://www.gao.gov/products/gao-24-106591?utm_med) finds that while Federal Risk and Authorization Management Program (FedRAMP) authorizations for federal cloud services increased by 60% from 2019-2023,  challenges remain.  Nine agencies reported using unauthorized cloud services, and OMB hasn't implemented a GAO recommendation to monitor program compliance.  Cost estimates for FedRAMP authorizations vary widely (tens of thousands to millions of dollars) due to inconsistent methods and a lack of OMB guidance.  The report highlights six key challenges faced by agencies and CSPs, including delays in receiving stakeholder responses, insufficient resources, and difficulties meeting FedRAMP requirements.  The GAO makes three recommendations to address these issues.\n"
+  }
+]
